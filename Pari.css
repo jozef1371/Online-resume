@@ -5,6 +5,12 @@
     padding: 10px;
     background-color: burlywood;
   }
+@font-face {
+	  font-family: 'kalame';
+src: url('KalamehWeb-Bold.woff2') format('woff2');
+font-weight: normal;
+font-style: normal;
+  }
   img {
     display: block;  
 margin-left: auto;  
