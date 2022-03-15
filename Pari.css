@@ -6,23 +6,33 @@
     background-color: burlywood;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 55%;
+}
+
+.header {
+    background: white;
+}
+
 @font-face {
-    font-family: 'kalame';
-    src: url('KalamehWeb-Regular.woff') format('woff');
+    font-family: "kalame";
+    src: url("KalamehWeb-Regular.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'iran';
-    src: url('IRANSansX-Bold.woff') format('woff');
+    font-family: "iran";
+    src: url("IRANSansX-Bold.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'iranr';
-    src: url('IRANSansX-Regular.woff') format('woff');
+    font-family: "iranr";
+    src: url("IRANSansX-Regular.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
