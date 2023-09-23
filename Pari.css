@@ -5,7 +5,13 @@
     padding: 10px;
     background-color: burlywood;
 }
-
+.right-side {
+    float: right;
+    width: 30%;
+    margin-right: 3cm;
+    padding: 10px;
+    background-color: burlywood;
+}
 .sticky {
     position: fixed;
     top: 0;
